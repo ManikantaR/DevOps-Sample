@@ -10,6 +10,7 @@ namespace DevOps_Sample
     {
         static void Main(string[] args)
         {
+            int a= 0;
         }
     }
 
